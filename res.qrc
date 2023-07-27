@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/播放.png</file>
+        <file>resource/暂停.png</file>
+    </qresource>
+</RCC>
